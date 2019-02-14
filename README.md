@@ -23,3 +23,14 @@ In both cases, DBScan either:
 IMO, the best solution is simply, for particular words ('ISF', 'taxe'), to be
 able to find what people were saying. We tried using sentiment analysis to
 know, for a subject, what is the distribution of sentiment around a topic.
+
+
+# Ressources used
+
+## Sentiment analysis
+Used French lexicon from:
+http://advanse.lirmm.fr/feel.php
+
+## Word2Vec
+Used word representation from Facebook
+https://fasttext.cc/docs/en/crawl-vectors.html
